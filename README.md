@@ -1,2 +1,2 @@
 # csf-search-trie
-A simple searching algo implementation i c#.
+A simple searching algo i implemented in c#.
